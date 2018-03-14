@@ -6,7 +6,7 @@
 
 ## How to install
 
-Simply move `github-dark.css` in Typora's configuration folder.
+Simply move `github-dark.css` in Typora's theme folder.
 
 A complete tutorial is available on [Typora's support](http://support.typora.io/About-Themes/)
 
